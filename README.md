@@ -1,1 +1,1 @@
-# full responsive page- based on Bhagaskara template
+# Responsive page- based on Bhagaskara template
